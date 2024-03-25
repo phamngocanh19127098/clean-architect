@@ -1,4 +1,4 @@
-package com.example.usecase.identity;
+package com.example.domain.usecase.identity;
 
 public class GenerateRandomIdentityUseCase {
 }

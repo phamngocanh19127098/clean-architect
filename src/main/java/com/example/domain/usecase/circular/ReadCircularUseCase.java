@@ -1,8 +1,8 @@
-package com.example.usecase.circular;
+package com.example.domain.usecase.circular;
 
 import com.example.domain.Circular;
 import com.example.domain.Identity;
-import com.example.usecase.UseCase;
+import com.example.domain.usecase.UseCase;
 import lombok.Builder;
 import lombok.Value;
 

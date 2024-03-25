@@ -3,7 +3,7 @@ package com.example.infrastructure;
 import com.example.domain.Circular;
 import com.example.domain.Identity;
 import com.example.infrastructure.entity.CircularEntity;
-import com.example.usecase.circular.CircularRepository;
+import com.example.domain.usecase.circular.CircularRepository;
 
 import java.util.List;
 import java.util.Optional;

@@ -1,4 +1,4 @@
-package com.example.usecase.circular;
+package com.example.domain.usecase.circular;
 
 public class NotFoundException extends DomainException  {
     public NotFoundException(String message) {

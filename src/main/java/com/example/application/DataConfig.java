@@ -2,7 +2,7 @@ package com.example.application;
 
 import com.example.infrastructure.CircularJPARepository;
 import com.example.infrastructure.CircularRepositoryImpl;
-import com.example.usecase.circular.CircularRepository;
+import com.example.domain.usecase.circular.CircularRepository;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

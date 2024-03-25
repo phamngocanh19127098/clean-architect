@@ -1,8 +1,8 @@
 package com.example.presenters;
 
 import com.example.presenters.entity.ApiResponse;
-import com.example.usecase.circular.DomainException;
-import com.example.usecase.circular.NotFoundException;
+import com.example.domain.usecase.circular.DomainException;
+import com.example.domain.usecase.circular.NotFoundException;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

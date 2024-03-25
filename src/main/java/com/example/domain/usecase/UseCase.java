@@ -1,4 +1,4 @@
-package com.example.usecase;
+package com.example.domain.usecase;
 
 public abstract class UseCase <I extends UseCase.InputValue, O extends UseCase.OutputValue> {
     public abstract O execute(I input);

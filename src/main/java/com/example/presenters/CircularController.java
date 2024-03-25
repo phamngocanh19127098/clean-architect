@@ -2,8 +2,8 @@ package com.example.presenters;
 
 import com.example.domain.Identity;
 import com.example.presenters.entity.ApiResponse;
-import com.example.usecase.UseCaseExecutor;
-import com.example.usecase.circular.ReadCircularUseCase;
+import com.example.domain.usecase.UseCaseExecutor;
+import com.example.domain.usecase.circular.ReadCircularUseCase;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestMapping;

@@ -1,6 +1,6 @@
-package com.example.usecase.circular;
+package com.example.domain.usecase.circular;
 
-import com.example.usecase.UseCase;
+import com.example.domain.usecase.UseCase;
 import org.springframework.stereotype.Service;
 
 @Service

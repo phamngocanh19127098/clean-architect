@@ -1,4 +1,4 @@
-package com.example.usecase;
+package com.example.domain.usecase;
 
 import com.example.presenters.entity.ApiResponse;
 
